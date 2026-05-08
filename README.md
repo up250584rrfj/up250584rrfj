@@ -45,12 +45,6 @@ I enjoy solving problems, learning new technologies, and building technical skil
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=up250584rrfj&show_icons=true&theme=tokyonight)
-
----
-
 ## 🎵 Hobbies
 
 - Listening to music 🎧

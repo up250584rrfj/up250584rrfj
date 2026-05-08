@@ -1,17 +1,64 @@
-#HOLA 👋
+# Hey 👋 I'm Félix
 
-Mi nombre es Felix, actualmente soy estudiante de la UPA pero en un futuro espero ser un gran programador de calidad. 
-<!--
-**up250584rrfj/up250584rrfj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Systems Engineering Student | Backend & Cybersecurity Enthusiast
 
-Here are some ideas to get you started:
+I'm a Systems Engineering student passionate about technology, backend development, networking, and cybersecurity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning and improving my skills in:
+
+- 🔐 Cybersecurity
+- 🌐 Computer Networks
+- ⚙️ C++
+- 🐍 Python
+- 🖥️ Backend Development
+
+I enjoy solving problems, learning new technologies, and building technical skills step by step.
+
+---
+
+## 🚀 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📚 Currently Learning
+
+- Backend fundamentals
+- Network security
+- Ethical hacking basics
+- Data structures & algorithms
+- Python scripting & automation
+- Linux environments
+
+---
+
+## 🎯 Goals
+
+- Become a backend developer
+- Specialize in cybersecurity
+- Build real-world projects
+- Continuously improve as an engineer
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=up250584rrfj&show_icons=true&theme=tokyonight)
+
+---
+
+## 🎵 Hobbies
+
+- Listening to music 🎧
+- Playing video games 🎮
+- Learning about technology 💡
+
+---
+
+## ⚡ Quote
+
+> “Keep learning, keep building.”

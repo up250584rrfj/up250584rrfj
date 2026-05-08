@@ -21,7 +21,6 @@ I enjoy solving problems, learning new technologies, and building technical skil
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -29,7 +28,6 @@ I enjoy solving problems, learning new technologies, and building technical skil
 
 - Backend fundamentals
 - Network security
-- Ethical hacking basics
 - Data structures & algorithms
 - Python scripting & automation
 - Linux environments
